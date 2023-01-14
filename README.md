@@ -1,3 +1,2 @@
 # TravelGo
-Demo Hackathon App 
-App by Ola and Nilanjan for CMPUT401 Hackathon
+Demo Hackathon App by Ola and Nilanjan for CMPUT401 Hackathon
